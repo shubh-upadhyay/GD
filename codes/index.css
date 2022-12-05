@@ -1,19 +1,31 @@
-button.navbar-toggler {
-    /* text-align: center; */
-    /* align-items: center; */
-    position: absolute;
-    top: 1vh;
+p.navbar-brand {
+    text-align: center;
+}
+img {
+    width: 100%;
 }
 
-.navbar-brand {
-    position: absolute;
-    padding-top: var(--bs-navbar-brand-padding-y);
-    padding-bottom: var(--bs-navbar-brand-padding-y);
-    margin-right: var(--bs-navbar-brand-margin-end);
-    font-size: var(--bs-navbar-brand-font-size);
-    color: var(--bs-navbar-brand-color);
-    text-decoration: none;
-    white-space: nowrap;
-    left: 77vh;
-    top: 1vh;
+
+
+
+.text-offers{
+    font-size: 5rem;
+    /* position: absolute; */
+    position: relative;
+    bottom: 250vh;
+    text-align: center;
 }
+
+
+
+
+/* .text-good-offers {
+        position: relative;
+        bottom: -167vh;
+        font-size: 3rem;
+        text-align: center;
+        background-color: black;
+        color: wheat;
+} */
+
+
